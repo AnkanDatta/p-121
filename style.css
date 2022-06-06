@@ -1,0 +1,32 @@
+.test_image_and_result
+{
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(255, 0, 0);
+    width: 100%;
+    background-color: grey;
+    
+}
+
+.result
+{
+    text-align: start;
+}
+
+.copy_right_footer
+  {
+    position: fixed;
+    color: rgba(0, 0, 0);
+    bottom: 0;
+    width: 100%;
+    background-color: pink;
+    line-height: 3;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px purple;
+    
+  }
+
+  .gl
+  {
+    color: magenta;
+  }
